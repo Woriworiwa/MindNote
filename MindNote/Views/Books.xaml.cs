@@ -1,9 +1,5 @@
-﻿using MahApps.Metro.Controls;
-using MindNote.Models;
-using Newtonsoft.Json;
-using System;
+﻿using System;
 using System.Collections.Generic;
-using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -17,21 +13,21 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace MindNote
+namespace MindNote.Views
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for Books.xaml
     /// </summary>
-    public partial class MainWindow
+    public partial class Books : UserControl
     {
-        private readonly MainWindowViewModel _viewModel;
+        private readonly BooksViewModel _viewModel;
 
-        public MainWindow()
+        public Books()
         {
-            _viewModel = new MainWindowViewModel();
+            _viewModel = new BooksViewModel();
             DataContext = _viewModel;
 
-            InitializeComponent();            
+            InitializeComponent();
         }
     }
 }

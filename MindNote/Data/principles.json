@@ -1,0 +1,99 @@
+[
+  {
+    "Id": 1,
+    "Name": "Aesthetics",
+    "Notes": [
+      {
+        "Title": "Principles",
+        "Uri": "https://www.evernote.com/shard/s2/sh/8a8d495f-2af8-431a-a235-62e407d40eb0/661397668b982697"
+      },
+      {
+        "Title": "How to test",
+        "Uri": "https://www.evernote.com/shard/s2/sh/ea4ba63f-0738-44b4-8b82-9c1cdbd4245b/2f494315e225086d"
+      }
+    ],
+    "Rules":[
+      {
+        "Id": 1,
+        "Text": "Aesthetic design should be left to those schooled and skilled in its application: Graphic/visual designers"
+      },{
+        "Id": 2,
+        "Text": "Fashion should never trump usability"
+      },{
+        "Id": 3,
+        "Text": "User test the visual design as thoroughly as the behavioral design"
+      }]
+  },
+  {
+    "Id": 2,
+    "Name": "Anticipation"
+  },
+  {
+    "Id": 3,
+    "Name": "Autonomy"
+  },
+  {
+    "Id": 4,
+    "Name": "Color"
+  },
+  {
+    "Id": 5,
+    "Name": "Consistency"
+  },
+  {
+    "Id": 6,
+    "Name": "Defaults"
+  },
+  {
+    "Id": 7,
+    "Name": "Discoverability"
+  },
+  {
+    "Id": 8,
+    "Name": "Efficiency of the user"
+  },
+  {
+    "Id": 9,
+    "Name": "Explorable interfaces"
+  },
+  {
+    "Id": 10,
+    "Name": "Fitt's law"
+  },
+  {
+    "Id": 11,
+    "Name": "Human interface objects"
+  },
+  {
+    "Id": 12,
+    "Name": "Latency reduction"
+  },
+  {
+    "Id": 13,
+    "Name": "Learnability"
+  },
+  {
+    "Id": 14,
+    "Name": "Metaphors, use of"
+  },
+  {
+    "Id": 15,
+    "Name": "Protect users' work"
+  },
+  {
+    "Id": 16,
+    "Name": "Readability"
+  },
+  {
+    "Id": 17,
+    "Name": "Simplicity"
+  },
+  {
+    "Id": 18,
+    "Name": "State"
+  },
+  {
+    "Id": 19,
+    "Name": "Visible navigation"
+  }
+]
